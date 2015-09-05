@@ -1,0 +1,25 @@
+{
+  "name": "talk2me",
+  "version": "1.0.0",
+  "description": "A Johnny Five application that controls an LED matrix to show current talking status.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvtrigueros/talk2me.git"
+  },
+  "keywords": [
+    "johnny-five",
+    "photon",
+    "particle",
+    "social"
+  ],
+  "author": "Jose V. Trigueros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvtrigueros/talk2me/issues"
+  },
+  "homepage": "https://github.com/jvtrigueros/talk2me#readme"
+}
