@@ -24,6 +24,7 @@
   "homepage": "https://github.com/jvtrigueros/talk2me#readme",
   "dependencies": {
     "firebase": "^2.2.9",
+    "request": "^2.61.0",
     "twitter": "^1.2.5"
   }
 }
